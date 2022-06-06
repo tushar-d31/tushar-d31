@@ -4,7 +4,8 @@ tushar-d31/tushar-d31 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hey there 👋, I'm Tushar Dhanani.</h1>
-<h4>A passionate and upcoming software engineer.</h3>
+<h4> About Me : A passionate and upcoming software engineer. 
+  I love solving problems and gaming.</h4>
 
 📫 How to reach me : **tushardhanani002@gmail.com**
 
