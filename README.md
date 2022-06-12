@@ -5,7 +5,9 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hey there 👋, I'm Tushar Dhanani.</h1>
 <h4> About Me : A passionate and upcoming software engineer. 
-  I love solving problems and gaming.</h4>
+  I love solving problems of all kinds and gaming. A technophile obsessed with latest technology.
+Well versed with programming languages like, C,C++,Python,Java including HTML,CSS and JavaScript,but always adding more skills to my repertoire.
+I am always eager to learn and meet interesting people,so feel free to connect!</h4>
 
 📫 How to reach me : **tushardhanani002@gmail.com**
 
